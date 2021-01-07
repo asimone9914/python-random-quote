@@ -12,3 +12,7 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Be like water, my friend
+I like turtles 
+This is a test quote
+Python is a cool language
